@@ -1,0 +1,7 @@
+{
+  "name": "disableParkApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
